@@ -1,17 +1,17 @@
 <h1 align="center">Olá, 👋 me chamo Clayton Marcelo!</h1>
-<h3 align="center">Fascinado por tecnologia, Analise de dados, Mobile no mundo digital.</h3>
+<h3 align="center">Fascinado por tecnologia, Análise de dados, Mobile no mundo digital.</h3>
 
 - 📝 Projetos realizados em grupo através da faculdade [Pedido Agora](https://github.com/Claytonmarcelo/pedidoagora-main/tree/main) | [Fitplan Academy](https://github.com/Claytonmarcelo/fitplan_academy)
 
-- 🧑‍💻 Meus projetos passoais e desenvolvimentos acadêmicos [foodexpress](https://github.com/claytonmarcelo/foodexpress) | [M-Food-Delivery](https://github.com/claytonmarcelo/M-Food-Delivery) | [FleetPulse](https://github.com/claytonmarcelo/FleetPulse)
+- 🧑‍💻 Meus projetos pessoais e desenvolvimentos acadêmicos [foodexpress](https://github.com/claytonmarcelo/foodexpress) | [M-Food-Delivery](https://github.com/claytonmarcelo/M-Food-Delivery) | [FleetPulse](https://github.com/claytonmarcelo/FleetPulse)
 
 - 📚 Atualmente estou aprendendo **Multiplataforma (Híbrido) (Android/iOS), Flutter (Dart), React Native, (JavaScript/TypeScript), Node.js**
 
-- ▶️ Tenho um canal no Youtube [Trabalhos acadêmicos e projetos](https://www.youtube.com/@c.marcelodev.brasil)
+- ▶️ Tenho um canal no YouTube [Trabalhos acadêmicos e projetos](https://www.youtube.com/@c.marcelodev.brasil)
 
 - 📫 Você me acha... **claytonlima10@gmail.com**
 
-- 🌍 Meu Linkedin [https://www.linkedin.com/in/clayton-marcelo-270602352/](https://www.linkedin.com/in/clayton-marcelo-270602352/)
+- 🌍 Meu LinkedIn [https://www.linkedin.com/in/clayton-marcelo-270602352/](https://www.linkedin.com/in/clayton-marcelo-270602352/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -67,20 +67,18 @@
 <img width=100% src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=22&width=700&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=20&width=800&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=22&width=700&lines=I+am+a+Systems+Analysis+and+Development+student)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=22&width=700&lines=focused+on+mobile+technology+and+databases.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=20&width=800&lines=I+am+a+Systems+Analysis+and+Development+student,+focused+on+mobile+technology.)](https://git.io/typing-svg)
 
 Constantly striving to be better than before. 🧠
 * Studying Systems Analysis and Development at Unisuam University. 👨‍🎓
-* Professional Career Transition
+* Professional career transition, dedicated to growth every day.
 * Believing in my efforts to overcome barriers and become the best.
 
 # My Stack
 
-<h3>🛠️ Tecnologias & Ferramentas</h3>
+<h3>🛠️ Technologies & Tools</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
@@ -99,10 +97,12 @@ Constantly striving to be better than before. 🧠
 <img width="100%" src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=22&width=700&lines=Olá%2C+meu+nome+é+Clayton+Marcelo.;Sou+estudante+de+Análise+de+Sistemas.;Fascinado+por+tecnologia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=20&width=800&lines=Olá%2C+meu+nome+é+Clayton+Marcelo+e+sou+do+Brasil.)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=20&width=800&lines=Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas,+focado+em+mobile.)](https://git.io/typing-svg)
 
 * Sempre tentando ser melhor do que antes. 🧠
-* Em transição de carreira, me dedicando a cada dia buscando evolução. 👨‍🎓
+* Em transição de carreira, dedicado ao crescimento a cada dia. 👨‍🎓
 * Estudando Análise e Desenvolvimento de Sistemas na Universidade Unisuam. 👨‍🎓
 
 # Minha Stack
