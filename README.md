@@ -3,15 +3,13 @@
 
 - 📝 Projetos realizados em grupo através da faculdade [Pedido Agora](https://github.com/Claytonmarcelo/pedidoagora-main/tree/main) | [Fitplan Academy](https://github.com/Claytonmarcelo/fitplan_academy)
 
-- 🧑‍💻 Meus projetos passoais e desenvolvimentos acadêmicos [foodexpress](https://github.com/claytonmarcelo/foodexpress)
+- 🧑‍💻 Meus projetos passoais e desenvolvimentos acadêmicos [foodexpress](https://github.com/claytonmarcelo/foodexpress)|[M-Food-Delivery](https://github.com/claytonmarcelo/M-Food-Delivery)|[FleetPulse](https://github.com/claytonmarcelo/FleetPulse)|
 
-- 📚 Atualmente estou aprendendo **Python, JavaScript, Node.js, MySql & PHP**
+- 📚 Atualmente estou aprendendo **Multiplataforma (Híbrido) (Android/iOS), Flutter (Dart), React Native, (JavaScript/TypeScript), Node.js**
 
 - ▶️ Tenho um canal no Youtube [Trabalhos acadêmicos e projetos](https://www.youtube.com/@c.marcelodev.brasil)
 
-- 💬 Pergunte-me sobre: **PHP, MySQL**
-
-- 📫 Você me acha... **c.marcelo.dev.br@gmail.com**
+- 📫 Você me acha... **claytonlima10@gmail.com**
 
 - 🌍 Meu Linkedin [https://www.linkedin.com/in/clayton-marcelo-270602352/](https://www.linkedin.com/in/clayton-marcelo-270602352/)
 
