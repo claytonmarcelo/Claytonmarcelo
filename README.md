@@ -68,7 +68,6 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=800&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.;I+am+a+Systems+Analysis+and+Development+student.;Focused+on+mobile+technology+and+databases.)](https://git.io/typing-svg)
-
 Constantly striving to be better than before. 🧠
 * Studying Systems Analysis and Development at Unisuam University. 👨‍🎓
 * Professional career transition, dedicated to growth every day.
