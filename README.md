@@ -1,5 +1,5 @@
 <h1 align="center">Olá, 👋 me chamo Clayton Marcelo!</h1>
-<h3 align="center">Fascinado por tecnologia, analise de dados, Mobile no mundo digital.</h3>
+<h3 align="center">Fascinado por tecnologia, Analise de dados, Mobile no mundo digital.</h3>
 
 - 📝 Projetos realizados em grupo através da faculdade [Pedido Agora](https://github.com/Claytonmarcelo/pedidoagora-main/tree/main) | [Fitplan Academy](https://github.com/Claytonmarcelo/fitplan_academy)
 
