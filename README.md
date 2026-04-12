@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://googleusercontent.com/image_generation_content/8" alt="Banner Mobile Híbrido e Banco de Dados"/>
+  <img width="100%" src="https://github.com/user-attachments/assets/1566370e-f72f-4886-9975-5380540d5b41" alt="Banner Mobile Híbrido e Banco de Dados"/>
 </p>
 
 <br>
@@ -63,7 +63,7 @@ Constantly striving to be better than before. 🧠
 <summary>🔽 Clique aqui para ver em Português</summary>
 
 <p align="center">
-  <img width="100%" src="https://googleusercontent.com/image_generation_content/8" alt="Banner Mobile Híbrido e Banco de Dados"/>
+  <img width="100%" src="https://github.com/user-attachments/assets/1566370e-f72f-4886-9975-5380540d5b41" alt="Banner Mobile Híbrido e Banco de Dados"/>
 </p>
 
 <br>
