@@ -67,9 +67,7 @@
 <img width=100% src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=20&width=800&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=20&width=800&lines=I+am+a+Systems+Analysis+and+Development+student%2C+focused+on+mobile+technology.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=800&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.;I+am+a+Systems+Analysis+and+Development+student.;Focused+on+mobile+technology+and+databases.)](https://git.io/typing-svg)
 
 Constantly striving to be better than before. 🧠
 * Studying Systems Analysis and Development at Unisuam University. 👨‍🎓
@@ -97,11 +95,7 @@ Constantly striving to be better than before. 🧠
 <img width="100%" src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=20&width=800&lines=Ola%2C+meu+nome+e+Clayton+Marcelo+e+sou+do+Brasil.)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=20&width=800&lines=Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas%2C)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1565FF&size=20&width=800&lines=focado+em+tecnologia+mobile+e+banco+de+dados.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=800&lines=Ola%2C+meu+nome+e+Clayton+Marcelo+e+sou+do+Brasil.;Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas.;Focado+em+tecnologia+mobile+e+banco+de+dados.)](https://git.io/typing-svg)
 
 * Sempre tentando ser melhor do que antes. 🧠
 * Em transição de carreira, dedicado ao crescimento a cada dia. 👨‍🎓
