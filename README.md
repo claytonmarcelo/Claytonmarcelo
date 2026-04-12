@@ -76,17 +76,24 @@ Constantly striving to be better than before. 🧠
 
 # My Stack
 
-<h3>🛠️ Technologies & Tools</h3>
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter"/>
+  <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" alt="Dart"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React Native"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=android" width="50" height="50" alt="Android"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
 </p>
 
 <details>
@@ -101,20 +108,4 @@ Constantly striving to be better than before. 🧠
 * Em transição de carreira, dedicado ao crescimento a cada dia. 👨‍🎓
 * Estudando Análise e Desenvolvimento de Sistemas na Universidade Unisuam. 👨‍🎓
 
-# Minha Stack
-
-<h3 align="center">🛠️ Aqui estão algumas das minhas habilidades:</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" width="50" height="50" alt="Flutter"/>
-  <img src="https://skillicons.dev/icons?i=dart" width="50" height="50" alt="Dart"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React Native"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="SQLite"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=android" width="50" height="50" alt="Android"/>
-</p>
 </details>
