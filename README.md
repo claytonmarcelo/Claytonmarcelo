@@ -170,4 +170,5 @@ Constantly striving to be better than before. 🧠
 
 </details>
 ---
-> *"Eis que faço novas todas as coisas."* — Apocalipse 21:5
+
+*"Eis que faço novas todas as coisas."* — Apocalipse 21:5
