@@ -98,7 +98,7 @@ Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real.
 
 ## 🎓 Formação Acadêmica
 
-**Análise e Desenvolvimento de Sistemas (ADS)** — UNISUAM, Rio de Janeiro (previsão de conclusão: julho de 2027)
+**Análise e Desenvolvimento de Sistemas (ADS)** — UNISUAM, Rio de Janeiro (previsão de conclusão: Julho de 2027)
 
 ---
 
