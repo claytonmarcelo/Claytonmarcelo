@@ -16,7 +16,6 @@ Buscando estágio ou primeira oportunidade como Desenvolvedor Mobile, Front-end 
 <p align="center">
 <a href="mailto:claytonlima10@gmail.com">📧 claytonlima10@gmail.com</a> •
 <a href="https://www.linkedin.com/in/clayton-marcelo-270602352/">LinkedIn</a> •
-<a href="https://github.com/claytonmarcelo">GitHub</a> •
 <a href="https://www.youtube.com/@c.marcelodev.brasil">YouTube</a>
 </p>
 
