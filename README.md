@@ -169,6 +169,5 @@ Constantly striving to be better than before. 🧠
 - Buscando oportunidade de estágio ou primeira oportunidade profissional na área de tecnologia.
 
 </details>
----
 
 *"Eis que faço novas todas as coisas."* — Apocalipse 21:5
