@@ -55,27 +55,27 @@ Desenvolvedor Mobile com experiência prática em React Native, TypeScript, Fire
 
 ## 📌 Projetos em Destaque
 
-### 📱 [Petit Clínica Veterinária](https://github.com/claytonmarcelo/Petit-Vet) · [petit-vet.vercel.app](https://petit-vet.vercel.app)
+### [Petit Clínica Veterinária](https://github.com/claytonmarcelo/Petit-Vet) · [petit-vet.vercel.app](https://petit-vet.vercel.app)
 Sistema clínico veterinário completo com 14 módulos clínicos, autenticação por perfis (tutor, atendente, veterinário, admin), rastreamento GPS via Expo Location e arquitetura OOP com padrões BaseRepository e Singleton.
 **Stack:** `React Native` · `TypeScript` · `Firebase` · `Firestore` · `Expo Location` · `Vercel`
 
-### 📱 [TaskFlow App](https://github.com/claytonmarcelo/TaskFlow---app)
+### [TaskFlow App](https://github.com/claytonmarcelo/TaskFlow---app)
 Aplicativo mobile para gestão de tarefas com autenticação, CRUD completo e build de APK gerado via EAS Build. Avaliação Formadora acadêmica.
 **Stack:** `React Native` · `Expo` · `Firebase` · `JavaScript` · `EAS Build`
 
-### 🍔 [M Food Delivery](https://github.com/claytonmarcelo/M-Food-Delivery)
+### [M Food Delivery](https://github.com/claytonmarcelo/M-Food-Delivery)
 App de delivery com geolocalização via OpenStreetMap, carrinho global persistente com Context API, avaliações e histórico de pedidos.
 **Stack:** `React Native` · `Expo` · `Firebase` · `Firestore` · `Context API` · `React Navigation`
 
-### 💳 [SwiftFim Pay](https://github.com/claytonmarcelo/SwiftFim-Pay)
+### [SwiftFim Pay](https://github.com/claytonmarcelo/SwiftFim-Pay)
 Sistema SaaS financeiro premium com gestão de pagamentos, assinaturas, cobranças, clientes, planos e painel administrativo. Integração com Mercado Pago, PayPal, PicPay e PagSeguro via webhooks.
 **Stack:** `React` · `Vite` · `TypeScript` · `Tailwind CSS` · `PHP` · `Laravel` · `MySQL` · `APIs REST`
 
-### 🌐 [Nexus Horizon](https://github.com/claytonmarcelo/Nexus-Horizon) · [Live](https://claytonmarcelo.github.io/Nexus-Horizon)
+### [Nexus Horizon](https://github.com/claytonmarcelo/Nexus-Horizon) · [Live](https://claytonmarcelo.github.io/Nexus-Horizon)
 Plataforma fullstack de monitoramento de conectividade. Frontend no GitHub Pages, API em Node.js/Fastify/TypeScript com Firebase Admin SDK no Render.
 **Stack:** `Node.js` · `Fastify` · `TypeScript` · `Firebase Admin SDK` · `GitHub Pages` · `Render`
 
-### 🌡️ [Temperature Converter](https://github.com/claytonmarcelo/TemperatureConverter)
+### [Temperature Converter](https://github.com/claytonmarcelo/TemperatureConverter)
 Conversor de temperatura com instrumentos HVAC 3D renderizados com react-native-svg. Avaliação Formadora acadêmica.
 **Stack:** `React Native` · `Expo` · `react-native-svg` · `TypeScript`
 
@@ -83,7 +83,7 @@ Conversor de temperatura com instrumentos HVAC 3D renderizados com react-native-
 App de delivery com telas de restaurante, cardápio, carrinho e componentização estruturada.
 **Stack:** `React Native` · `JavaScript` · `React Navigation` · `Context API`
 
-### 🚗 [FleetPulse](https://github.com/claytonmarcelo/FleetPulse)
+### [FleetPulse](https://github.com/claytonmarcelo/FleetPulse)
 Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real.
 **Stack:** `React Native` · `Firebase` · `TypeScript`
 
