@@ -79,7 +79,7 @@ Plataforma fullstack de monitoramento de conectividade. Frontend no GitHub Pages
 Conversor de temperatura com instrumentos HVAC 3D renderizados com react-native-svg. Avaliação Formadora acadêmica.
 **Stack:** `React Native` · `Expo` · `react-native-svg` · `TypeScript`
 
-### 🍽️ [FoodExpress](https://github.com/claytonmarcelo/foodexpress)
+### [FoodExpress](https://github.com/claytonmarcelo/foodexpress)
 App de delivery com telas de restaurante, cardápio, carrinho e componentização estruturada.
 **Stack:** `React Native` · `JavaScript` · `React Navigation` · `Context API`
 
