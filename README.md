@@ -125,6 +125,29 @@ Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real.
 
 ---
 
+<img width=100% src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.;Systems+Analysis+and+Development+student.;Mobile+Developer+in+training.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Building+academic+and+personal+projects+with+real+purpose.)](https://git.io/typing-svg)
+
+Constantly striving to be better than before. 🧠
+
+- Studying Systems Analysis and Development at UNISUAM University 👨‍🎓
+- Professional career transition, dedicated to growth every day
+- Focused on mobile development, hybrid applications, databases and fullstack learning
+- Building practical projects with React Native, Flutter, Firebase, Node.js, PHP, Laravel, MySQL
+- Seeking internship or junior opportunity in technology
+
+---
+
+# My Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,firebase,flutter,dart,php,laravel,mysql,sqlite,html,css,git,github,android" />
+</p>
+
+---
+
 ## 🔎 Keywords para ATS e Recrutadores
 
 **Cargos:** Desenvolvedor Mobile · Mobile Developer · Desenvolvedor React Native · React Native Developer · Flutter Developer · Desenvolvedor Front-end · Front-end Developer · Desenvolvedor Fullstack · Fullstack Developer · Desenvolvedor Júnior · Junior Developer · Estagiário em TI · Estágio em Desenvolvimento de Sistemas · Analista de Sistemas · Desenvolvedor de Aplicativos
@@ -150,18 +173,5 @@ Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real.
 - Buscando oportunidade de estágio ou primeira oportunidade profissional na área de tecnologia.
 
 </details>
-
-<img width=100% src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.;Systems+Analysis+and+Development+student.;Mobile+Developer+in+training.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Building+academic+and+personal+projects+with+real+purpose.)](https://git.io/typing-svg)
-
-Constantly striving to be better than before. 🧠
-
-- Studying Systems Analysis and Development at UNISUAM University 👨‍🎓
-- Professional career transition, dedicated to growth every day
-- Focused on mobile development, hybrid applications, databases and fullstack learning
-- Building practical projects with React Native, Flutter, Firebase, Node.js, PHP, Laravel, MySQL
-- Seeking internship or junior opportunity in technology
 
 *"Eis que faço novas todas as coisas."* — Apocalipse 21:5
