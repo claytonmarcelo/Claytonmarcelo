@@ -71,6 +71,10 @@ App de delivery com geolocalização via OpenStreetMap, carrinho global persiste
 Sistema SaaS financeiro premium com gestão de pagamentos, assinaturas, cobranças, clientes, planos e painel administrativo. Integração com Mercado Pago, PayPal, PicPay e PagSeguro via webhooks.
 **Stack:** `React` · `Vite` · `TypeScript` · `Tailwind CSS` · `PHP` · `Laravel` · `MySQL` · `APIs REST`
 
+### [X-Black DJ Remixer](https://github.com/claytonmarcelo/X-Black-Dj-Remixer)
+SaaS de streaming musical e marketplace DJ com sistema de playlists, faixas, comentários com bloqueio automático por IP, painel administrativo e integração com Mercado Pago e PagSeguro.
+**Stack:** `PHP` · `Laravel 11` · `MySQL` · `REST API` · `Mercado Pago` · `IA` · `WAMP` · `cPanel`
+
 ### [Nexus Horizon](https://github.com/claytonmarcelo/Nexus-Horizon) · [Live](https://claytonmarcelo.github.io/Nexus-Horizon)
 Plataforma fullstack de monitoramento de conectividade. Frontend no GitHub Pages, API em Node.js/Fastify/TypeScript com Firebase Admin SDK no Render.
 **Stack:** `Node.js` · `Fastify` · `TypeScript` · `Firebase Admin SDK` · `GitHub Pages` · `Render`
