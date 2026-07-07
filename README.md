@@ -164,7 +164,8 @@ Constantly striving to be better than before. 🧠
 <img width="100%" src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
-[![Typing SVG] (https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Ola%2C+meu+nome+e+Clayton+Marcelo+e+sou+do+Brasil.;Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas.;Desenvolvedor+Mobile+em+formacao.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Construindo+projetos+academicos+e+pessoais+com+proposito+real.)](https://git.io/typing-svg)
+[![Typing SVG] 
+(https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Ola%2C+meu+nome+e+Clayton+Marcelo+e+sou+do+Brasil.;Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas.;Desenvolvedor+Mobile+em+formacao.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Construindo+projetos+academicos+e+pessoais+com+proposito+real.)](https://git.io/typing-svg)
 
 - Sempre tentando ser melhor do que antes. 🧠
 - Em transição de carreira, dedicado ao crescimento a cada dia. 👨‍🎓
