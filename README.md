@@ -15,7 +15,7 @@ Buscando estágio ou primeira oportunidade como Desenvolvedor Mobile, Front-end 
 
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&to=claytonlima10@gmail.com">📧 claytonlima10@gmail.com</a> •
-<a href="https://www.linkedin.com/in/clayton-marcelo-270602352/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/clayton-marcelo-dev/">LinkedIn</a> •
 <a href="https://www.youtube.com/@c.marcelodev.brasil">YouTube</a>
 </p>
 
@@ -59,9 +59,9 @@ Desenvolvedor Mobile com experiência prática em React Native, TypeScript, Fire
 Sistema clínico veterinário completo com 14 módulos clínicos, autenticação por perfis (tutor, atendente, veterinário, admin), rastreamento GPS via Expo Location e arquitetura OOP com padrões BaseRepository e Singleton.
 **Stack:** `React Native` · `TypeScript` · `Firebase` · `Firestore` · `Expo Location` · `Vercel`
 
-### [TaskFlow App](https://github.com/claytonmarcelo/TaskFlow---app)
-Aplicativo mobile para gestão de tarefas com autenticação, CRUD completo e build de APK gerado via EAS Build. Avaliação Formadora acadêmica.
-**Stack:** `React Native` · `Expo` · `Firebase` · `JavaScript` · `EAS Build`
+### [TaskFlow](https://github.com/claytonmarcelo/TaskFlow)
+Aplicativo mobile de gerenciamento de tarefas com autenticação, CRUD completo com sincronização offline via Firestore, modo foco (Pomodoro), geolocalização, exportação em PDF e build de APK gerado via EAS Build.
+**Stack:** `React Native` · `Expo` · `Firebase` · `Firestore` · `Zustand` · `EAS Build`
 
 ### [M Food Delivery](https://github.com/claytonmarcelo/M-Food-Delivery)
 App de delivery com geolocalização via OpenStreetMap, carrinho global persistente com Context API, avaliações e histórico de pedidos.
@@ -75,9 +75,9 @@ Sistema SaaS financeiro premium com gestão de pagamentos, assinaturas, cobranç
 SaaS de streaming musical e marketplace DJ com sistema de playlists, faixas, comentários com bloqueio automático por IP, painel administrativo e integração com Mercado Pago e PagSeguro.
 **Stack:** `PHP` · `Laravel 11` · `MySQL` · `REST API` · `Mercado Pago` · `IA` · `WAMP` · `cPanel`
 
-### [Nexus Horizon](https://github.com/claytonmarcelo/Nexus-Horizon) · [Live](https://claytonmarcelo.github.io/Nexus-Horizon)
-Plataforma fullstack de monitoramento de conectividade. Frontend no GitHub Pages, API em Node.js/Fastify/TypeScript com Firebase Admin SDK no Render.
-**Stack:** `Node.js` · `Fastify` · `TypeScript` · `Firebase Admin SDK` · `GitHub Pages` · `Render`
+### [Nexus Horizon](https://github.com/claytonmarcelo/Nexus-Horizon) · [Live](https://nexus-horizon.onrender.com)
+Plataforma fullstack de monitoramento de conectividade. API em Node.js/Fastify/TypeScript com Firebase Admin SDK, deploy em produção no Render.
+**Stack:** `Node.js` · `Fastify` · `TypeScript` · `Firebase Admin SDK` · `Render`
 
 ### [Temperature Converter](https://github.com/claytonmarcelo/TemperatureConverter)
 Conversor de temperatura com instrumentos HVAC 3D renderizados com react-native-svg. Avaliação Formadora acadêmica.
@@ -87,9 +87,9 @@ Conversor de temperatura com instrumentos HVAC 3D renderizados com react-native-
 App de delivery com telas de restaurante, cardápio, carrinho e componentização estruturada.
 **Stack:** `React Native` · `JavaScript` · `React Navigation` · `Context API`
 
-### [FleetPulse](https://github.com/claytonmarcelo/FleetPulse)
-Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real.
-**Stack:** `React Native` · `Firebase` · `TypeScript`
+### [FleetPulse](https://github.com/claytonmarcelo/FleetPulse) · [Live](https://fleet-pulse-eta.vercel.app)
+Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real, alertas de velocidade e dashboard.
+**Stack:** `React Native` · `Firebase` · `TypeScript` · `Zustand`
 
 ---
 
@@ -115,7 +115,7 @@ Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real.
 <h3 align="left">Conecte-se comigo:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/clayton-marcelo-270602352/" target="blank">
+<a href="https://www.linkedin.com/in/clayton-marcelo-dev/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/@c.marcelodev.brasil" target="blank">
