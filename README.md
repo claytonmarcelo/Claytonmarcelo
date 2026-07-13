@@ -9,7 +9,7 @@ Desenvolvedor Mobile em formação · Desenvolvedor Front-end · Desenvolvedor F
 </h3>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNISUAM, Rio de Janeiro.<br>
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNISUAM, Rio de Janeiro — 4º período.<br>
 Buscando estágio ou primeira oportunidade como Desenvolvedor Mobile, Front-end ou Fullstack Júnior.
 </p>
 
@@ -23,7 +23,7 @@ Buscando estágio ou primeira oportunidade como Desenvolvedor Mobile, Front-end 
 
 ## 🎯 Objetivo Profissional
 
-Desenvolvedor Mobile com experiência prática em React Native, TypeScript, Firebase e Expo. Busco **estágio em desenvolvimento de sistemas**, **vaga júnior em desenvolvimento mobile** ou **posição de desenvolvedor front-end** para aplicar conhecimentos em projetos reais.
+Desenvolvedor Mobile com experiência prática em React Native, TypeScript, Firebase e Expo. Atualmente no 4º período de ADS na UNISUAM, busco **estágio em desenvolvimento de sistemas**, **vaga júnior em desenvolvimento mobile** ou **posição de desenvolvedor front-end** para aplicar conhecimentos em projetos reais.
 
 **Cargos de interesse:**
 `Desenvolvedor Mobile Júnior` · `Estágio em Desenvolvimento de Sistemas` · `Desenvolvedor React Native` · `Desenvolvedor Front-end Júnior` · `Desenvolvedor Fullstack Júnior` · `Estagiário em TI` · `Desenvolvedor Flutter`
@@ -79,6 +79,10 @@ SaaS de streaming musical e marketplace DJ com sistema de playlists, faixas, com
 Plataforma fullstack de monitoramento de conectividade. API em Node.js/Fastify/TypeScript com Firebase Admin SDK, deploy em produção no Render.
 **Stack:** `Node.js` · `Fastify` · `TypeScript` · `Firebase Admin SDK` · `Render`
 
+### [FleetPulse](https://github.com/claytonmarcelo/FleetPulse) · [Live](https://fleet-pulse-eta.vercel.app)
+Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real, alertas de velocidade e dashboard.
+**Stack:** `React Native` · `Firebase` · `TypeScript` · `Zustand`
+
 ### [Temperature Converter](https://github.com/claytonmarcelo/TemperatureConverter)
 Conversor de temperatura com instrumentos HVAC 3D renderizados com react-native-svg. Avaliação Formadora acadêmica.
 **Stack:** `React Native` · `Expo` · `react-native-svg` · `TypeScript`
@@ -86,10 +90,6 @@ Conversor de temperatura com instrumentos HVAC 3D renderizados com react-native-
 ### [FoodExpress](https://github.com/claytonmarcelo/foodexpress)
 App de delivery com telas de restaurante, cardápio, carrinho e componentização estruturada.
 **Stack:** `React Native` · `JavaScript` · `React Navigation` · `Context API`
-
-### [FleetPulse](https://github.com/claytonmarcelo/FleetPulse) · [Live](https://fleet-pulse-eta.vercel.app)
-Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real, alertas de velocidade e dashboard.
-**Stack:** `React Native` · `Firebase` · `TypeScript` · `Zustand`
 
 ---
 
@@ -102,7 +102,8 @@ Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real,
 
 ## 🎓 Formação Acadêmica
 
-**Análise e Desenvolvimento de Sistemas (ADS)** — UNISUAM, Rio de Janeiro (previsão de conclusão: Julho de 2027)
+**Análise e Desenvolvimento de Sistemas (ADS)** — UNISUAM, Rio de Janeiro
+4º período em andamento · Previsão de conclusão: Julho de 2027
 
 ---
 
@@ -128,11 +129,11 @@ Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real,
 <img width=100% src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.;Systems+Analysis+and+Development+student.;Mobile+Developer+in+training.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Building+academic+and+personal+projects+with+real+purpose.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.;Systems+Analysis+and+Development+student+%E2%80%94+4th+semester.;Mobile+Developer+in+training.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Building+academic+and+personal+projects+with+real+purpose.)](https://git.io/typing-svg)
 
 Constantly striving to be better than before. 🧠
 
-- Studying Systems Analysis and Development at UNISUAM University 👨‍🎓
+- Studying Systems Analysis and Development at UNISUAM University — currently in the 4th semester 👨‍🎓
 - Professional career transition, dedicated to growth every day
 - Focused on mobile development, hybrid applications, databases and fullstack learning
 - Building practical projects with React Native, Flutter, Firebase, Node.js, PHP, Laravel, MySQL
@@ -156,7 +157,7 @@ Constantly striving to be better than before. 🧠
 
 **Conceitos:** Desenvolvimento Mobile · Desenvolvimento Front-end · Desenvolvimento Fullstack · Aplicações Híbridas · Sistemas Web · Integração de APIs · Versionamento de Código · Componentização · Arquitetura de Software · OOP · SaaS · Geolocalização · Build de APK · Deploy
 
-**Formação:** Análise e Desenvolvimento de Sistemas · ADS · UNISUAM · Tecnologia da Informação · TI
+**Formação:** Análise e Desenvolvimento de Sistemas · ADS · UNISUAM · 4º período · Tecnologia da Informação · TI
 
 <details>
 <summary>🔽 Clique aqui para ver em Português</summary>
@@ -164,11 +165,11 @@ Constantly striving to be better than before. 🧠
 <img width="100%" src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Ola%2C+meu+nome+e+Clayton+Marcelo+e+sou+do+Brasil.;Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas.;Desenvolvedor+Mobile+em+formacao.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Construindo+projetos+academicos+e+pessoais+com+proposito+real.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Ola%2C+meu+nome+e+Clayton+Marcelo+e+sou+do+Brasil.;Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas+%E2%80%94+4o+periodo.;Desenvolvedor+Mobile+em+formacao.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Construindo+projetos+academicos+e+pessoais+com+proposito+real.)](https://git.io/typing-svg)
 
 - Sempre tentando ser melhor do que antes. 🧠
 - Em transição de carreira, dedicado ao crescimento a cada dia. 👨‍🎓
-- Estudando Análise e Desenvolvimento de Sistemas na Universidade UNISUAM.
+- Estudando Análise e Desenvolvimento de Sistemas na Universidade UNISUAM — atualmente no 4º período.
 - Focado em desenvolvimento mobile, aplicações híbridas, banco de dados e aprendizado fullstack.
 - Buscando oportunidade de estágio ou primeira oportunidade profissional na área de tecnologia.
 
