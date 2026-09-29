@@ -1,178 +1,86 @@
 <h1 align="center">Clayton Marcelo</h1>
 
-<h2 align="center">
-Desenvolvedor Mobile | React Native · TypeScript · Firebase · Expo · Flutter · Node.js
-</h2>
-
-<h3 align="center">
-Desenvolvedor Mobile em formação · Desenvolvedor Front-end · Desenvolvedor Fullstack Júnior · Estagiário em Desenvolvimento de Sistemas
-</h3>
+<h3 align="center">Desenvolvedor Full Stack Júnior | React · React Native · Node.js · TypeScript</h3>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNISUAM, Rio de Janeiro — 4º período.<br>
-Buscando estágio ou primeira oportunidade como Desenvolvedor Mobile, Front-end ou Fullstack Júnior.
+Estudante de Análise e Desenvolvimento de Sistemas na UNISUAM (Rio de Janeiro), 4º período, conclusão prevista em julho de 2027.<br>
+Buscando <b>estágio</b> ou <b>primeira vaga júnior</b> em desenvolvimento full stack ou mobile.
 </p>
 
 <p align="center">
-<a href="https://mail.google.com/mail/?view=cm&to=claytonlima10@gmail.com">📧 claytonlima10@gmail.com</a> •
 <a href="https://www.linkedin.com/in/clayton-marcelo-dev/">LinkedIn</a> •
 <a href="https://www.youtube.com/@c.marcelodev.brasil">YouTube</a>
 </p>
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🎯 Objetivo
 
-Desenvolvedor Mobile com experiência prática em React Native, TypeScript, Firebase e Expo. Atualmente no 4º período de ADS na UNISUAM, busco **estágio em desenvolvimento de sistemas**, **vaga júnior em desenvolvimento mobile** ou **posição de desenvolvedor front-end** para aplicar conhecimentos em projetos reais.
+Atuar em um time de tecnologia aplicando o que já construo nos meus projetos: APIs REST com autenticação, front-ends em React, aplicativos com React Native e deploy em nuvem.
 
-**Cargos de interesse:**
-`Desenvolvedor Mobile Júnior` · `Estágio em Desenvolvimento de Sistemas` · `Desenvolvedor React Native` · `Desenvolvedor Front-end Júnior` · `Desenvolvedor Fullstack Júnior` · `Estagiário em TI` · `Desenvolvedor Flutter`
+**Cargos de interesse:** `Desenvolvedor Full Stack Júnior` · `Desenvolvedor Mobile Júnior` · `Desenvolvedor React Native` · `Desenvolvedor Front-end Júnior` · `Estágio em Desenvolvimento de Sistemas` · `Estagiário em TI`
 
 ---
 
-## 🧑‍💻 Stack Técnica
+## 🧑‍💻 Stack
 
-### Desenvolvimento Mobile
-`React Native` · `Expo` · `Flutter` · `Dart` · `Android` · `iOS`
+**Front-end e Mobile:** React · React Native · Expo · Tailwind CSS · Vite · HTML5 · CSS3
+**Linguagens:** TypeScript · JavaScript · PHP
+**Back-end:** Node.js · Express · Fastify · Laravel · APIs REST · JWT
+**Bancos de dados:** MySQL · MariaDB · Firebase Firestore · Prisma
+**Ferramentas e nuvem:** Git · GitHub Actions · Vitest · Vercel · Render · AWS (AWS Academy)
+**Práticas:** Autenticação JWT · Arquitetura multiempresa (multi-tenant) · Testes automatizados · CI/CD · Geolocalização · Deploy
 
-### Linguagens
-`TypeScript` · `JavaScript` · `PHP` · `Dart` · `HTML5` · `CSS3`
-
-### Backend & Cloud
-`Node.js` · `Firebase` · `Firestore` · `Firebase Auth` · `APIs REST` · `Fastify` · `Laravel` · `PHP`
-
-### Banco de Dados
-`Firestore (NoSQL)` · `MySQL` · `SQLite`
-
-### Ferramentas
-`Git` · `GitHub` · `Expo EAS Build` · `VS Code` · `Context API` · `React Navigation` · `Expo Router`
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,firebase,flutter,dart,php,laravel,mysql,sqlite,html,css,git,github,android" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,fastify,firebase,php,laravel,mysql,prisma,tailwind,vite,aws,git,github,vercel" />
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos em destaque
 
-### [Petit Clínica Veterinária](https://github.com/claytonmarcelo/Petit-Vet) · [petit-vet.vercel.app](https://petit-vet.vercel.app)
-Sistema clínico veterinário completo com 14 módulos clínicos, autenticação por perfis (tutor, atendente, veterinário, admin), rastreamento GPS via Expo Location e arquitetura OOP com padrões BaseRepository e Singleton.
-**Stack:** `React Native` · `TypeScript` · `Firebase` · `Firestore` · `Expo Location` · `Vercel`
+### [Nexus Business Manager](https://github.com/claytonmarcelo/Nexus-Business-Manager)
+ERP SaaS multiempresa com 15 módulos (CRM, estoque, compras, vendas, financeiro, agenda), autenticação JWT, 24 migrações de banco, testes com Vitest e CI/CD no GitHub Actions.
+**Stack:** `React` · `TypeScript` · `Node.js` · `Fastify` · `MySQL`
+
+### [Nexus Control App](https://github.com/claytonmarcelo/nexus-control-app)
+E-commerce e gestão de catálogo com três perfis de acesso (administrador, funcionário e cliente) e painel administrativo. Deploy realizado na AWS Academy (ambiente de laboratório).
+**Stack:** `React` · `Vite` · `Node.js` · `Express` · `MySQL` · `AWS`
+
+### [Nexus Field](https://github.com/claytonmarcelo/Nexus-Field)
+Gestão de equipes técnicas em campo: ordens de serviço, agenda, check-in por geolocalização e estoque móvel.
+**Stack:** `React` · `TypeScript` · `Fastify` · `Prisma` · `MariaDB`
+
+### [FleetPulse](https://github.com/claytonmarcelo/FleetPulse) · [Demo](https://fleet-pulse-eta.vercel.app)
+Monitoramento de frotas em tempo real com GPS, alertas de velocidade e dashboard (iOS, Android e Web).
+**Stack:** `React Native` · `Expo` · `TypeScript` · `Firebase` · `Zustand`
 
 ### [TaskFlow](https://github.com/claytonmarcelo/TaskFlow)
-Aplicativo mobile de gerenciamento de tarefas com autenticação, CRUD completo com sincronização offline via Firestore, modo foco (Pomodoro), geolocalização, exportação em PDF e build de APK gerado via EAS Build.
-**Stack:** `React Native` · `Expo` · `Firebase` · `Firestore` · `Zustand` · `EAS Build`
+App offline-first com autenticação, sincronização em background, calendário, geolocalização e modo foco. Build de APK via EAS Build.
+**Stack:** `React Native` · `Expo` · `Firebase` · `Firestore` · `Zustand`
 
-### [M Food Delivery](https://github.com/claytonmarcelo/M-Food-Delivery)
-App de delivery com geolocalização via OpenStreetMap, carrinho global persistente com Context API, avaliações e histórico de pedidos.
-**Stack:** `React Native` · `Expo` · `Firebase` · `Firestore` · `Context API` · `React Navigation`
-
-### [SwiftFim Pay](https://github.com/claytonmarcelo/SwiftFim-Pay)
-Sistema SaaS financeiro premium com gestão de pagamentos, assinaturas, cobranças, clientes, planos e painel administrativo. Integração com Mercado Pago, PayPal, PicPay e PagSeguro via webhooks.
-**Stack:** `React` · `Vite` · `TypeScript` · `Tailwind CSS` · `PHP` · `Laravel` · `MySQL` · `APIs REST`
-
-### [X-Black DJ Remixer](https://github.com/claytonmarcelo/X-Black-Dj-Remixer)
-SaaS de streaming musical e marketplace DJ com sistema de playlists, faixas, comentários com bloqueio automático por IP, painel administrativo e integração com Mercado Pago e PagSeguro.
-**Stack:** `PHP` · `Laravel 11` · `MySQL` · `REST API` · `Mercado Pago` · `IA` · `WAMP` · `cPanel`
-
-### [Nexus Horizon](https://github.com/claytonmarcelo/Nexus-Horizon) · [Live](https://nexus-horizon.onrender.com)
-Plataforma fullstack de monitoramento de conectividade. API em Node.js/Fastify/TypeScript com Firebase Admin SDK, deploy em produção no Render.
-**Stack:** `Node.js` · `Fastify` · `TypeScript` · `Firebase Admin SDK` · `Render`
-
-### [FleetPulse](https://github.com/claytonmarcelo/FleetPulse) · [Live](https://fleet-pulse-eta.vercel.app)
-Sistema de gestão e monitoramento de frotas com rastreamento GPS em tempo real, alertas de velocidade e dashboard.
-**Stack:** `React Native` · `Firebase` · `TypeScript` · `Zustand`
-
-### [Temperature Converter](https://github.com/claytonmarcelo/TemperatureConverter)
-Conversor de temperatura com instrumentos HVAC 3D renderizados com react-native-svg. Avaliação Formadora acadêmica.
-**Stack:** `React Native` · `Expo` · `react-native-svg` · `TypeScript`
-
-### [FoodExpress](https://github.com/claytonmarcelo/foodexpress)
-App de delivery com telas de restaurante, cardápio, carrinho e componentização estruturada.
-**Stack:** `React Native` · `JavaScript` · `React Navigation` · `Context API`
+### [Petit Clínica Veterinária](https://github.com/claytonmarcelo/Petit-Vet) · [Demo](https://petit-vet.vercel.app)
+Sistema clínico com 14 módulos, autenticação por perfis (tutor, atendente, veterinário, admin), rastreamento GPS e arquitetura orientada a objetos (BaseRepository e Singleton).
+**Stack:** `React Native` · `TypeScript` · `Firebase` · `Expo Location`
 
 ---
 
-## 📝 Projetos Acadêmicos em Grupo — UNISUAM
+## 🗂️ Outros projetos
 
-- [Pedido Agora](https://github.com/Claytonmarcelo/pedidoagora-main/tree/main)
+- [Nexus Horizon](https://github.com/claytonmarcelo/Nexus-Horizon) · [Demo](https://nexus-horizon.onrender.com): plataforma full stack de monitoramento de conectividade, com API em Node.js/Fastify e deploy no Render.
+- [M Food Delivery](https://github.com/claytonmarcelo/M-Food-Delivery): app de delivery com geolocalização, carrinho persistente e histórico de pedidos (React Native, Firebase).
+
+## 👥 Projetos acadêmicos em grupo (UNISUAM)
+
+- [Pedido Agora](https://github.com/Claytonmarcelo/pedidoagora-main)
 - [Fitplan Academy](https://github.com/Claytonmarcelo/fitplan_academy)
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas (ADS)** — UNISUAM, Rio de Janeiro
-4º período em andamento · Previsão de conclusão: Julho de 2027
+**Tecnologia em Análise e Desenvolvimento de Sistemas** · UNISUAM, Rio de Janeiro · 4º período · Previsão de conclusão: julho de 2027
 
----
+## 📚 Atualmente estudando
 
-## 📚 Atualmente Estudando
-
-`React Native` · `TypeScript` · `Flutter` · `Dart` · `Firebase` · `Node.js` · `PHP` · `Laravel` · `MySQL` · `APIs REST` · `Desenvolvimento Mobile Android/iOS` · `Fullstack Development`
-
----
-
-<h3 align="left">Conecte-se comigo:</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/clayton-marcelo-dev/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/@c.marcelodev.brasil" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-</a>
-</p>
-
----
-
-<img width=100% src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Hello%2C+my+name+is+Clayton+Marcelo+and+I+am+from+Brazil.;Systems+Analysis+and+Development+student+%E2%80%94+4th+semester.;Mobile+Developer+in+training.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Building+academic+and+personal+projects+with+real+purpose.)](https://git.io/typing-svg)
-
-Constantly striving to be better than before. 🧠
-
-- Studying Systems Analysis and Development at UNISUAM University — currently in the 4th semester 👨‍🎓
-- Professional career transition, dedicated to growth every day
-- Focused on mobile development, hybrid applications, databases and fullstack learning
-- Building practical projects with React Native, Flutter, Firebase, Node.js, PHP, Laravel, MySQL
-- Seeking internship or junior opportunity in technology
-
----
-
-# My Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,firebase,flutter,dart,php,laravel,mysql,sqlite,html,css,git,github,android" />
-</p>
-
----
-
-## 🔎 Keywords para ATS e Recrutadores
-
-**Cargos:** Desenvolvedor Mobile · Mobile Developer · Desenvolvedor React Native · React Native Developer · Flutter Developer · Desenvolvedor Front-end · Front-end Developer · Desenvolvedor Fullstack · Fullstack Developer · Desenvolvedor Júnior · Junior Developer · Estagiário em TI · Estágio em Desenvolvimento de Sistemas · Analista de Sistemas · Desenvolvedor de Aplicativos
-
-**Tecnologias:** React Native · Expo · TypeScript · JavaScript · Firebase · Firestore · Firebase Auth · Flutter · Dart · Node.js · Fastify · PHP · Laravel · MySQL · SQLite · HTML5 · CSS3 · React · Vite · Tailwind CSS · Context API · React Navigation · Expo Router · EAS Build · Git · GitHub · APIs REST · CRUD · Autenticação · Webhooks · Android · iOS · NoSQL · Banco de Dados · Cloud
-
-**Conceitos:** Desenvolvimento Mobile · Desenvolvimento Front-end · Desenvolvimento Fullstack · Aplicações Híbridas · Sistemas Web · Integração de APIs · Versionamento de Código · Componentização · Arquitetura de Software · OOP · SaaS · Geolocalização · Build de APK · Deploy
-
-**Formação:** Análise e Desenvolvimento de Sistemas · ADS · UNISUAM · 4º período · Tecnologia da Informação · TI
-
-<details>
-<summary>🔽 Clique aqui para ver em Português</summary>
-
-<img width="100%" src="./banner.png" alt="Mobile Híbrido / Banco de Dados"/>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1565FF&width=900&lines=Ola%2C+meu+nome+e+Clayton+Marcelo+e+sou+do+Brasil.;Sou+estudante+de+Analise+e+Desenvolvimento+de+Sistemas+%E2%80%94+4o+periodo.;Desenvolvedor+Mobile+em+formacao.;React+Native+%7C+TypeScript+%7C+Firebase+%7C+Flutter+%7C+Node.js.;Construindo+projetos+academicos+e+pessoais+com+proposito+real.)](https://git.io/typing-svg)
-
-- Sempre tentando ser melhor do que antes. 🧠
-- Em transição de carreira, dedicado ao crescimento a cada dia. 👨‍🎓
-- Estudando Análise e Desenvolvimento de Sistemas na Universidade UNISUAM — atualmente no 4º período.
-- Focado em desenvolvimento mobile, aplicações híbridas, banco de dados e aprendizado fullstack.
-- Buscando oportunidade de estágio ou primeira oportunidade profissional na área de tecnologia.
-
-</details>
-
-*"Eis que faço novas todas as coisas."* — Apocalipse 21:5
+`AWS (Computação em Nuvem)` · `TypeScript` · `Node.js` · `Testes automatizados` · `APIs REST`
