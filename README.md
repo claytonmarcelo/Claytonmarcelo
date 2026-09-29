@@ -32,8 +32,7 @@ Atuar em um time de tecnologia aplicando o que já construo nos meus projetos: A
 - **Práticas:** Autenticação JWT · Arquitetura multiempresa (multi-tenant) · Testes automatizados · CI/CD · Geolocalização · Deploy
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,firebase,php,laravel,mysql,prisma,tailwind,vite,aws,git,github,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,firebase,php,laravel,mysql,prisma,tailwind,vite,aws,git,vercel" />
 
 ---
 
