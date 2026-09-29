@@ -24,15 +24,15 @@ Atuar em um time de tecnologia aplicando o que já construo nos meus projetos: A
 
 ## 🧑‍💻 Stack
 
-**Front-end e Mobile:** React · React Native · Expo · Tailwind CSS · Vite · HTML5 · CSS3
-**Linguagens:** TypeScript · JavaScript · PHP
-**Back-end:** Node.js · Express · Fastify · Laravel · APIs REST · JWT
-**Bancos de dados:** MySQL · MariaDB · Firebase Firestore · Prisma
-**Ferramentas e nuvem:** Git · GitHub Actions · Vitest · Vercel · Render · AWS (AWS Academy)
-**Práticas:** Autenticação JWT · Arquitetura multiempresa (multi-tenant) · Testes automatizados · CI/CD · Geolocalização · Deploy
+- **Front-end e Mobile:** React · React Native · Expo · Tailwind CSS · Vite · HTML5 · CSS3
+- **Linguagens:** TypeScript · JavaScript · PHP
+- **Back-end:** Node.js · Express · Fastify · Laravel · APIs REST · JWT
+- **Bancos de dados:** MySQL · MariaDB · Firebase Firestore · Prisma
+- **Ferramentas e nuvem:** Git · GitHub Actions · Vitest · Vercel · Render · AWS (AWS Academy)
+- **Práticas:** Autenticação JWT · Arquitetura multiempresa (multi-tenant) · Testes automatizados · CI/CD · Geolocalização · Deploy
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,fastify,firebase,php,laravel,mysql,prisma,tailwind,vite,aws,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,firebase,php,laravel,mysql,prisma,tailwind,vite,aws,git,github,vercel" />
 </p>
 
 ---
